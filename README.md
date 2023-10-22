@@ -8,7 +8,8 @@ Para definir uma cor ANSI é muito simples, você deve concatenar a nossa String
 
 - `Abaixo você irá encontrar o exemplo de saída,
 mas lembre-se, os métodos de cores ANSI já são
-obsoletos para a era atual.`
+obsoletos para a era atual, como programadores devemos
+sempre estar inovando em nossos conhecimentos.`
 
 **Exemplo de saída**
 > Como funciona o método ``Colors.RGBANSIColor(RED, GREEN, BLUE)`` ?
