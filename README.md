@@ -4,13 +4,13 @@ Para definir uma cor ANSI é muito simples, você deve concatenar a nossa String
 
 **Exemplo de entrada**
 
-![Link](https://imgur.com/7E1uy5a.png);
+![Link](https://imgur.com/7E1uy5a.png)
 
-Abaixo você irá encontrar o exemplo de saída,
+- `Abaixo você irá encontrar o exemplo de saída,
 mas lembre-se, os métodos de cores ANSI já são
-obsoletos para a era atual.
+obsoletos para a era atual.`
 
 **Exemplo de saída**
 > Como funciona o método ``Colors.RGBANSIColor(RED, GREEN, BLUE)`` ?
 > de forma muito simples, ele cria uma cor ANSI com base no RGB.
-![Link](https://imgur.com/nqQGZy6.png);
+![Link](https://imgur.com/nqQGZy6.png)
