@@ -3,7 +3,9 @@
 Para definir uma cor ANSI é muito simples, você deve concatenar a nossa String vinda do ``Colors.<COR>.getANSI()`` com algum texto!
 
 **Exemplo de entrada**
+
 ![Link](https://imgur.com/7E1uy5a.png);
 
 **Exemplo de saída**
-![Link](https://imgur.com/nqQGZy6.png)
+
+![Link](https://imgur.com/nqQGZy6.png);
